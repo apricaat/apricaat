@@ -5,4 +5,5 @@
 Изучала языки: C,Python,C++,Java,Kotlin,C#.
 
 ###Контакты
-  [VK]
+  [VK](https://vk.com/l0st_raccoon)
+  
