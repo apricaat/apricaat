@@ -9,6 +9,9 @@
 [![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=flat&logo=telegram&logoColor=white)](https://t.me/Aprica2003)
 
 
+### Контакты
+[![VK](https://img.shields.io/badge/-4680C2?style=flat&logo=vk&logoColor=white&label=&logoWidth=40)](https://vk.com/l0st_raccoon)
+[![Telegram](https://img.shields.io/badge/-0088cc?style=flat&logo=telegram&logoColor=white&label=&logoWidth=40)](https://t.me/Aprica2003)
 
 
 
