@@ -4,9 +4,6 @@
 
 Изучала языки: C,Python,C++,Java,Kotlin,C#.
 
-### Контакты
-  [![VK](https://img.shields.io/badge/VK-4680C2?style=flat&logo=vk&logoColor=white)](https://vk.com/l0st_raccoon)
-[![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=flat&logo=telegram&logoColor=white)](https://t.me/Aprica2003)
 
 
 ### Контакты
