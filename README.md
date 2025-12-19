@@ -6,4 +6,4 @@
 
 ### Контакты
   [VK](https://vk.com/l0st_raccoon)
-  
+  [Telegram](https://t.me/Aprica2003)
