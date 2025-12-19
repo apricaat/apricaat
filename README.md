@@ -8,7 +8,12 @@
   [![VK](https://img.shields.io/badge/VK-4680C2?style=flat&logo=vk&logoColor=white)](https://vk.com/l0st_raccoon)
 [![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=flat&logo=telegram&logoColor=white)](https://t.me/Aprica2003)
 
-[![VK](https://img.shields.io/badge/VK-4680C2?style=for-the-badge&logo=vk&logo![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white***
+### Контакты
+[![VK](https://img.shields.io/badge/VK-4680C2?style=social-card&logo=vk&logoColor=white)](https://vk.com/l0st_raccoon)
+[![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=social-card&logo=telegram&logoColor=white)](https://t.me/Aprica2003)
+
+
+
 
 
 
