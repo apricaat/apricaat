@@ -1,11 +1,11 @@
 ## Привет, меня зовут Новоселова Юлия
 
-Учусь в вузе, хочу стать аналитиком.
+:heart: Учусь в вузе, хочу стать аналитиком.
 
 
-Закончила курс на Stepik "Системный аналитик от нуля до старта". Диплом имеется.
+:heart: Закончила курс на Stepik "Системный аналитик от нуля до старта". Диплом имеется.
 
-Изучала языки: C,Python,C++,Java,Kotlin,C#.
+:heart: Изучала языки: C,Python,C++,Java,Kotlin,C#.
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
