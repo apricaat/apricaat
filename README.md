@@ -10,9 +10,13 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-    ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★
-           С НОВЫМ 2026 ГОДОМ ЛОШАДИ! 🐎🎊
-    ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ 
+    <div align="center"> ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★
+          <div align="center">
+<span style="font-size:3em;letter-spacing:0.1em;">𝗦 𝗡𝗢𝗩𝗬𝗠 𝟮𝟬𝟮𝟲 𝗚𝗢𝗗𝗢𝗠!</span> 🐴🎉
+                <div align="center"> ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★
+</div>
+
+   
 
 <div id="header" align="center">
 
