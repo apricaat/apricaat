@@ -7,7 +7,7 @@
 
 :heart: Изучала языки: C,Python,C++,Java,Kotlin,C#.
 
-https://stepik.org/cert/3007687
+<img width="1158" height="814" alt="image" src="https://github.com/user-attachments/assets/d83c9296-d8ee-4ef7-b815-584db38a5a72" />
 
 
 
