@@ -8,11 +8,14 @@
 
 👨‍💻 Получила 1 ступень DSD (Deutsch Schprach Diplom)
 
+## Мои проекты:
+
 ## Достижения:
 
 <img width="1158" height="814" alt="image" src="https://github.com/user-attachments/assets/d83c9296-d8ee-4ef7-b815-584db38a5a72" />
       <img width="499" height="713" alt="image" src="https://github.com/user-attachments/assets/471154ed-3779-4dcc-8208-277ab12e760e" />
-## Мои проекты:
+
+
 
 
 
