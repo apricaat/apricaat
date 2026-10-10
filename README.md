@@ -9,6 +9,11 @@
 👨‍💻 Получила 1 ступень DSD (Deutsch Schprach Diplom)
 
 ## Мои проекты:
+| Проект | Статус | Репозиторий |
+| --- | --- | --- |
+| **PrakticaBPMN** | ⏳ В работе | :rocket: [GitHub](https://github.com/apricaat/PrakticaBPMN) |
+
+
 
 ## Достижения:
 
