@@ -13,7 +13,7 @@
 | --- | --- | --- |
 | **PrakticaBPMN** | ⏳ В работе | :rocket: [GitHub](https://github.com/apricaat/PrakticaBPMN) |
 
-## Что надо сделать
+## Что надо сделать:
 | Проект | Что надо сделать |
 | --- | --- |
 |⏳ПрактикаБПМН | DFD |
