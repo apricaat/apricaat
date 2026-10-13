@@ -13,7 +13,12 @@
 | --- | --- | --- |
 | **Диаграммы** | ✅ сделан | :rocket: [GitHub](https://github.com/apricaat/PrakticaBPMN) |
 
+## что необходимо сделать
 
+SQL запросы (показать работу с запросами)<br>
+Power BI<br>
+Excel Query<br>
+A/B тестирование питон
 
 
 
