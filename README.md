@@ -11,7 +11,7 @@
 ## Мои проекты:
 | Проект | Статус | Репозиторий |
 | --- | --- | --- |
-| **PrakticaBPMN** | ✅ сделан | :rocket: [GitHub](https://github.com/apricaat/PrakticaBPMN) |
+| **Диаграммы** | ✅ сделан | :rocket: [GitHub](https://github.com/apricaat/PrakticaBPMN) |
 
 ## Что надо сделать:
 | Проект | Что надо сделать |
