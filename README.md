@@ -11,12 +11,12 @@
 ## Мои проекты:
 | Проект | Статус | Репозиторий |
 | --- | --- | --- |
-| **PrakticaBPMN** | ⏳ В работе | :rocket: [GitHub](https://github.com/apricaat/PrakticaBPMN) |
+| **PrakticaBPMN** | ✅ сделан | :rocket: [GitHub](https://github.com/apricaat/PrakticaBPMN) |
 
 ## Что надо сделать:
 | Проект | Что надо сделать |
 | --- | --- |
-|⏳ПрактикаБПМН | DFD |
+|✅ПрактикаБПМН | DFD |
 | ✅ПрактикаБПМН| Диаграмма последовательности |
 |  ✅ПрактикаБПМН| Диаграмма прецедентов (UML) |
 
