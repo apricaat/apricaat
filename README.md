@@ -12,7 +12,7 @@
 | Проект | Статус | Репозиторий |
 | --- | --- | --- |
 | **Диаграммы** | ✅ сделан | :rocket: [GitHub](https://github.com/apricaat/PrakticaBPMN) |
-| **SQL запросы** | ⏳в работе| |
+| **SQL запросы** | ⏳в работе| :rocket: [GitHub](https://github.com/apricaat/SQLrequests)|
 | **Power BI** | ⏳в работе| |
 | **Excel Query** | ⏳в работе| |
 | **A/B тестирование питон** | ⏳в работе| |
