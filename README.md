@@ -13,7 +13,7 @@
 | --- | --- | --- |
 | **Диаграммы** | ✅ сделан | :rocket: [GitHub](https://github.com/apricaat/PrakticaBPMN) |
 | **SQL запросы** | ✅ сделан| :rocket: [GitHub](https://github.com/apricaat/SQLrequests)|
-| **Power BI** | ⏳в работе| |
+| **Power BI** | ✅ сделан| :rocket: [GitHub](https://github.com/apricaat/PowerBI)|
 | **Excel Query** | ⏳в работе| |
 | **A/B тестирование питон** | ⏳в работе| |
 
