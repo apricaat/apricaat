@@ -14,7 +14,7 @@
 | **Диаграммы** | ✅ сделан | :rocket: [GitHub](https://github.com/apricaat/PrakticaBPMN) |
 | **SQL запросы** | ✅ сделан| :rocket: [GitHub](https://github.com/apricaat/SQLrequests)|
 | **Power BI** | ✅ сделан| :rocket: [GitHub](https://github.com/apricaat/PowerBI)|
-| **Excel Query** | ⏳в работе| |
+| **Excel Query** | ✅ сделан| :rocket: [GitHub](https://github.com/apricaat/EQrazbor)|
 | **A/B тестирование питон** | ✅ сделан| :rocket: [GitHub](https://github.com/apricaat/Attesting)|
 
 
